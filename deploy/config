@@ -1,0 +1,8 @@
+ENV='local'
+DIR_LOG="/deploy"
+GIT_REPO="git@github.com:BUA-VIVO/vivo-frontend.git"
+GIT_BRANCH="main"
+GIT_SSH="..path-to-ssh-file.."
+DIR_GIT="..path-to-vivo-git-repo..."
+DIR_BUILD="..path-to-vivo-build-directory...
+DIR_LIVE="..path-to-tomcat-webapps..."
